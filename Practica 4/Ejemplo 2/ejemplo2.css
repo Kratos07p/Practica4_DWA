@@ -1,0 +1,38 @@
+.container {
+    margin-top: 20px;
+}
+
+/* Estilos para la Fila 1 */
+.img-full-width {
+    width: 100%;
+    height: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Estilos para la imagen en Fila 2 */
+.img-left {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para la imagen en Fila 3 */
+.img-right {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para las imágenes en Fila 4 */
+.img-small {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
